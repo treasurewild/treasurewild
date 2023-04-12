@@ -1,5 +1,3 @@
-👋 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Shwmae!
-
 🧑‍⚕️ 👨‍🏫 I'm a former care worker and maths teacher looking for a new challenge.
 
 - 🥋 I’m proficient in C# and Java.
