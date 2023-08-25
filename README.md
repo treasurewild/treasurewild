@@ -10,7 +10,7 @@
 #### C#, Java, JavaScript, CSS, HTML, React, Svelte, Express, Node, MongoDB, Socket.io, LayerCake
 
 - 🧮 I have a degree in Maths and Philosophy. I studied Coding, Cryptography, Information Theory, Game Theory and Foundational Logic.
-- 💬 I’m new to full stack development and I'd love feedback on the projects I'm developing while I learn.
+- 💬 I'd love feedback on the projects I'm developing, feel free to get in touch, or to create your own improvements.
 
 ## Projects
 
